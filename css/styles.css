@@ -8,13 +8,13 @@ Body {
 div.page {
     margin: 60px auto;
     width: 800px;
-    background: brown
+    background: rgb(202, 219, 188)
         ;
 }
 
 div.page .header {
     padding: 25px 25px 30px 25px;
-    border-bottom: 30px rgb(70, 43, 33) solid;
+    border-bottom: 30px rgb(194, 126, 102) solid;
 }
 
 div.page .content {
