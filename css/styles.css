@@ -8,7 +8,8 @@ Body {
 div.page {
     margin: 60px auto;
     width: 800px;
-    background: pink;
+    background: brown
+        ;
 }
 
 div.page .header {
