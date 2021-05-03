@@ -1,0 +1,22 @@
+/* this styles did not work and I dont know why? */
+
+Body {
+    background-color: white;
+    color: black;
+}
+
+div.page {
+    margin: 60px auto;
+    width: 800px;
+    background: pink;
+}
+
+div.page .header {
+    padding: 25px 25px 30px 25px;
+    border-bottom: 30px rgb(70, 43, 33) solid;
+}
+
+div.page .content {
+    padding: 25px 25px 15px 65px;
+    background-color: rgb(201, 212, 201);
+}
